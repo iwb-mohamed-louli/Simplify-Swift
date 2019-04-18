@@ -21,7 +21,7 @@ Simplify-Swift is a high-performance Swift polyline simplification library porte
   s.source           = { :git => 'https://github.com/tomislav/Simplify-Swift.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/tomislav'
   
-  s.ios.deployment_target = '9.3'
+  s.ios.deployment_target = '9.0'
   s.source_files = 'Simplify-Swift/Classes/**/*'
-  s.swift_version = '4.2'
+  s.swift_version = '5.0'
 end
